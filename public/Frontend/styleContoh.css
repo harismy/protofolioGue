@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    background: #f8fafc;
+    color: #0f172a;
+}
+.container {
+    width: min (900px, 92%);
+    margin: 0 auto;
+    padding: 24px 0 40px;
+}
+.card {
+    background: #fff;
+    border: 1px solid #32e8f0;
+    border-radius: 16px;
+    padding: 16px;
+    margin-bottom: 12px;
+}
